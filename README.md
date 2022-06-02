@@ -5,7 +5,7 @@ A𝗯ou𝘁 𝗺e c𝗼m𝗲'o𝗻 an𝗱 𝘀e𝗲
 
 Olá, meu chamo **jô**! Estou interessada em aprender a programar **novas** linguagens!
 ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤㅤ  ㅤ ㅤ ㅤ  ㅤㅤ  ㅤ   ㅤ   Atualmente estou **aprendendo**, pelo menos tentando, programar as linguagem do *JavaScript e Scratch.*
-ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ   ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤㅤ  ㅤ  Eu tenho bastante dificuldade com essas coisas, mas tenho certeza que, com o tempo, vou melhorar!
+ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ   ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ ㅤ  ㅤ  ㅤㅤ   Eu tenho bastante dificuldade com essas coisas, mas tenho certeza que, com o tempo, vou melhorar!
 ㅤ  ㅤ 
 #### 𝚕𝚒𝚝𝚝𝚕𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 
 | 🪡| 🎟|
