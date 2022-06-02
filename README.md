@@ -1,7 +1,7 @@
 
 A𝗯ou𝘁 𝗺e c𝗼m𝗲'o𝗻 an𝗱 𝘀e𝗲
 
-!(https://tenor.com/view/fff-gif-25173706)
+
 
 Olá, meu chamo **jô**! Estou interessada em aprender a programar **novas** linguagens!
  Atualmente estou **aprendendo**, pelo menos tentando, programar as linguagem do *JavaScript e Scratch.*
