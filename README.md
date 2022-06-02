@@ -1,9 +1,10 @@
 
 A𝗯ou𝘁 𝗺e c𝗼m𝗲'o𝗻 an𝗱 𝘀e𝗲
 
-<a href=””><img src=”https://tenor.com/view/fff-gif-25173706”></img></a>.
+!(https://tenor.com/view/fff-gif-25173706)
 
-Olá, meu chamo **jô**! Estou interessada em aprender a programar **novas** linguagens! 🌱 Atualmente estou **aprendendo**, pelo menos tentando, programar as linguagem do *JavaScript e Scratch.*
+Olá, meu chamo **jô**! Estou interessada em aprender a programar **novas** linguagens!
+ Atualmente estou **aprendendo**, pelo menos tentando, programar as linguagem do *JavaScript e Scratch.*
 Eu tenho bastante dificuldade com essas coisas, mas tenho certeza que, com o tempo, vou melhorar!
 
 #### 𝚕𝚒𝚝𝚝𝚕𝚎 𝚒𝚗𝚏𝚘𝚛𝚖𝚊𝚝𝚒𝚘𝚗 
