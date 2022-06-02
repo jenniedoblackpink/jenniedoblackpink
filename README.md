@@ -1,10 +1,10 @@
 
 A𝗯ou𝘁 𝗺e c𝗼m𝗲'o𝗻 an𝗱 𝘀e𝗲
 
-lá, meu chamo **jô**! Estou interessada em aprender a programar **novas** linguagens!
-Atualmente estou **aprendendo**, pelo menos tentando, programar as linguagem do *JavaScript e Scratch.*
-Eu tenho bastante dificuldade com essas coisas, mas tenho certeza que, com o tempo, vou melhorar!ㅤ  ㅤ 
-ㅤ  ㅤ 
+Olá, eu meu chamo **jô**! Estou interessada em aprender a programar **novas** linguagens!
+Atualmente estou **aprendendo**, ou pelo menos tentando, programar as linguagem do *JavaScript e Scratch.*
+Eu tenho bastante dificuldade, mas tenho certeza que, com o tempo, vou melhorar!ㅤ  ㅤ 
+ㅤ
 #### ㅤ ㅤ    ㅤ      *♡*  ㅤ  ... *♡*
 | 🪡| 🎟|
 | ------ | ------ |
