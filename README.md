@@ -5,7 +5,7 @@ lá, meu chamo **jô**! Estou interessada em aprender a programar **novas** ling
 Atualmente estou **aprendendo**, pelo menos tentando, programar as linguagem do *JavaScript e Scratch.*
 Eu tenho bastante dificuldade com essas coisas, mas tenho certeza que, com o tempo, vou melhorar!ㅤ  ㅤ 
 ㅤ  ㅤ 
-#### ♡
+#### ㅤ  ♡ 
 | 🪡| 🎟|
 | ------ | ------ |
 |𝑤𝑖𝑛𝑡𝑒𝑟|𝑚𝑢𝑠𝑖𝑐|
