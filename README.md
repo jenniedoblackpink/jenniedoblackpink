@@ -16,5 +16,6 @@ Eu tenho bastante dificuldade, mas tenho certeza que, com o tempo, vou melhorar!
 |𝑔𝑎𝑚𝑒𝑠|𝑖𝑐𝑒𝑐𝑟𝑒𝑎𝑚|
 |𝑝𝑢𝑟𝑝𝑙𝑒|𝑤𝑟𝑖𝑡𝑒𝑟|
 
-https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white
-
+![Aiqfome](https://img.shields.io/badge/Aiqfome-7A1FA2?style=for-the-badge&logo=aiqfome&logoColor=white)
+![Scratch](https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white)
+![JavaScrip](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
